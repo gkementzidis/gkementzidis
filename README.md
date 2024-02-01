@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 -Scientific Computing, MD simulations, Machine Learning, HPC
+
 -Stony Brook University
+
 -Grinnell College '22
